@@ -1,0 +1,4 @@
+# local run data and build output
+/data/
+server/office
+*.test

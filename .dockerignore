@@ -1,0 +1,12 @@
+.git
+data
+**/*.test
+server/office
+README.md
+AGENTS.md
+scripts/*
+!scripts/precompress.sh
+docker-compose.yml
+# Upstream hosting notes are not served; keep the build context small.
+**/HOSTING.md
+**/README.md

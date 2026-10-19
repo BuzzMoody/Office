@@ -1,0 +1,34 @@
+{
+  "apps": [
+    {
+      "slug": "docs",
+      "dir": "Docs",
+      "name": "Docs",
+      "engine": "WordCraft",
+      "repo": "https://github.com/storytold/wordcraft",
+      "tagline": "Write, format and design documents.",
+      "accent": "#3b6cf6",
+      "extensions": ["docx", "doc", "odt", "rtf", "md", "txt", "html", "htm", "tex"]
+    },
+    {
+      "slug": "sheets",
+      "dir": "Sheets",
+      "name": "Sheets",
+      "engine": "GridCraft",
+      "repo": "https://github.com/storytold/gridcraft",
+      "tagline": "Crunch numbers, formulas and pivot tables.",
+      "accent": "#16a36a",
+      "extensions": ["xlsx", "xlsm", "xlsb", "ods", "csv", "tsv"]
+    },
+    {
+      "slug": "slides",
+      "dir": "Slides",
+      "name": "Slides",
+      "engine": "DeckCraft",
+      "repo": "https://github.com/storytold/deckcraft",
+      "tagline": "Build decks that look the part.",
+      "accent": "#f2760f",
+      "extensions": ["pptx", "ppsx", "deckcraft"]
+    }
+  ]
+}

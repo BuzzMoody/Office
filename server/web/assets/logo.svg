@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Office">
+  <rect x="6" y="14" width="30" height="36" rx="9" fill="#3b6cf6" transform="rotate(-14 21 32)"/>
+  <rect x="17" y="10" width="30" height="36" rx="9" fill="#16a36a" transform="rotate(2 32 28)"/>
+  <rect x="28" y="16" width="30" height="36" rx="9" fill="#f2760f" transform="rotate(16 43 34)"/>
+</svg>

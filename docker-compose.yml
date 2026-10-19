@@ -1,0 +1,23 @@
+services:
+  office:
+    build: .
+    # image: ghcr.io/your-org/office:latest   # if you publish the image yourself
+    container_name: office
+    restart: unless-stopped
+    ports:
+      - "9235:9235"
+    volumes:
+      # Everything you save lives here. Use a named volume (below) or a bind mount
+      # such as ./data:/data (then run: sudo chown 65532:65532 ./data).
+      - office-data:/data
+    environment:
+      OFFICE_MAX_UPLOAD_MB: "512"
+      # Only needed if your reverse proxy rewrites the Host header:
+      # OFFICE_ALLOWED_ORIGINS: "https://office.domain.au"
+    read_only: true
+    cap_drop: [ALL]
+    security_opt:
+      - no-new-privileges:true
+
+volumes:
+  office-data:
