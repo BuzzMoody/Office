@@ -2,7 +2,7 @@
   <a href="https://getartcraft.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/brand/artcraft-logo-white.svg">
-      <img alt="ArtCraft" src="docs/brand/artcraft-logo.svg" width="200">
+      <img alt="ArtCraft" src="https://raw.githubusercontent.com/storytold/gridcraft/v0.8.0/docs/brand/artcraft-logo.svg" width="200">
     </picture>
   </a>
 </p>
@@ -39,7 +39,7 @@
 <br>
 
 <p align="center">
-  <img src="docs/images/hero-sales.png" alt="GridCraft showing a quarterly sales dashboard: a styled table with banded rows, filter buttons, a totals row, data bars, arrow icons and sparklines, next to a clustered column chart and a pie chart" width="100%">
+  <img src="https://raw.githubusercontent.com/storytold/gridcraft/v0.8.0/docs/images/hero-sales.png" alt="GridCraft showing a quarterly sales dashboard: a styled table with banded rows, filter buttons, a totals row, data bars, arrow icons and sparklines, next to a clustered column chart and a pie chart" width="100%">
   <br><sub><b>Quarterly Sales Dashboard</b>: a table with a totals row, conditional formatting, sparklines and two live charts — built entirely from GridCraft commands (<code>File → New → Sample</code>).</sub>
 </p>
 
@@ -63,16 +63,16 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="docs/images/budget.png" alt="A household budget with accounting number formats, red highlights for overspent categories, a green-yellow-red colour scale on the percent-used column, a totals row with a double border, and a horizontal bar chart comparing budget with actual" width="100%"><p align="center"><sub><b>Formatting.</b> Accounting formats, cell styles, conditional rules and colour scales, frozen headers and a bar chart.</sub></p></td>
-<td width="50%" valign="top"><img src="docs/images/grades-formulas.png" alt="A gradebook table with averages and letter grades computed with IFS, green highlights on A grades and data bars, with the Formulas ribbon tab open showing the function library" width="100%"><p align="center"><sub><b>Formulas.</b> 500+ functions, dynamic arrays, LET and LAMBDA, structured table references.</sub></p></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/storytold/gridcraft/v0.8.0/docs/images/budget.png" alt="A household budget with accounting number formats, red highlights for overspent categories, a green-yellow-red colour scale on the percent-used column, a totals row with a double border, and a horizontal bar chart comparing budget with actual" width="100%"><p align="center"><sub><b>Formatting.</b> Accounting formats, cell styles, conditional rules and colour scales, frozen headers and a bar chart.</sub></p></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/storytold/gridcraft/v0.8.0/docs/images/grades-formulas.png" alt="A gradebook table with averages and letter grades computed with IFS, green highlights on A grades and data bars, with the Formulas ribbon tab open showing the function library" width="100%"><p align="center"><sub><b>Formulas.</b> 500+ functions, dynamic arrays, LET and LAMBDA, structured table references.</sub></p></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="docs/images/dark-insert.png" alt="The sales dashboard in dark mode with the Insert ribbon tab open, showing PivotTable, Table, Pictures, Shapes, chart, sparkline, link, comment, text box and symbol buttons" width="100%"><p align="center"><sub><b>Dark mode</b> and the Insert tab: tables, charts, sparklines, pictures, shapes, links and comments.</sub></p></td>
-<td width="50%" valign="top"><img src="docs/images/pivot.png" alt="A PivotTable summarising revenue by region and product with a Channel report filter, grand totals and currency formatting, with the PivotTable Fields pane open on the right showing ticked fields and the Filters, Columns, Rows and Values areas" width="100%"><p align="center"><sub><b>PivotTables.</b> Field list, filters, layouts, date grouping and show-values-as, saved to and read from XLSX.</sub></p></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/storytold/gridcraft/v0.8.0/docs/images/dark-insert.png" alt="The sales dashboard in dark mode with the Insert ribbon tab open, showing PivotTable, Table, Pictures, Shapes, chart, sparkline, link, comment, text box and symbol buttons" width="100%"><p align="center"><sub><b>Dark mode</b> and the Insert tab: tables, charts, sparklines, pictures, shapes, links and comments.</sub></p></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/storytold/gridcraft/v0.8.0/docs/images/pivot.png" alt="A PivotTable summarising revenue by region and product with a Channel report filter, grand totals and currency formatting, with the PivotTable Fields pane open on the right showing ticked fields and the Filters, Columns, Rows and Values areas" width="100%"><p align="center"><sub><b>PivotTables.</b> Field list, filters, layouts, date grouping and show-values-as, saved to and read from XLSX.</sub></p></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="docs/images/format-chart.png" alt="The sales dashboard with the column chart selected: resize handles on the chart, its source data outlined in the table, the Chart Design tab open and the Format Chart Area pane on the right" width="100%"><p align="center"><sub><b>Charts.</b> Seventeen chart types, Chart Design tab and a Format pane; selecting a chart outlines its source data.</sub></p></td>
-<td width="50%" valign="top"><img src="docs/images/page-break.png" alt="The household budget in Page Break Preview: the print area outlined in blue with a dashed page break, Page 1 and Page 2 watermarks, and the area outside the print range greyed out" width="100%"><p align="center"><sub><b>Page Break Preview</b>, print settings, and PDF export and printing.</sub></p></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/storytold/gridcraft/v0.8.0/docs/images/format-chart.png" alt="The sales dashboard with the column chart selected: resize handles on the chart, its source data outlined in the table, the Chart Design tab open and the Format Chart Area pane on the right" width="100%"><p align="center"><sub><b>Charts.</b> Seventeen chart types, Chart Design tab and a Format pane; selecting a chart outlines its source data.</sub></p></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/storytold/gridcraft/v0.8.0/docs/images/page-break.png" alt="The household budget in Page Break Preview: the print area outlined in blue with a dashed page break, Page 1 and Page 2 watermarks, and the area outside the print range greyed out" width="100%"><p align="center"><sub><b>Page Break Preview</b>, print settings, and PDF export and printing.</sub></p></td>
 </tr>
 </table>
 
@@ -85,9 +85,9 @@
   tables, conditional formats, validation, comments, hyperlinks, charts, pictures, sparklines,
   PivotTables and print settings round-trip. CSV and TSV too.
   Excel 97-2003 `.xls` workbooks open with their values, formulas and number formats (formatting and objects not yet).
-  [XLSB worksheet data can be imported](docs/xlsb-import.md), using saved values instead of formulas.
-  [ODS worksheet data can be imported](docs/ods-import.md), using saved values instead of formulas.
-  [Static pictures can live inside cells](docs/cell-pictures.md), fitting their size and moving with the data.
+  [XLSB worksheet data can be imported](https://github.com/storytold/gridcraft/blob/v0.8.0/docs/xlsb-import.md), using saved values instead of formulas.
+  [ODS worksheet data can be imported](https://github.com/storytold/gridcraft/blob/v0.8.0/docs/ods-import.md), using saved values instead of formulas.
+  [Static pictures can live inside cells](https://github.com/storytold/gridcraft/blob/v0.8.0/docs/cell-pictures.md), fitting their size and moving with the data.
 - **Capable.** A dependency-graph calculation engine with dynamic arrays and spilling,
   500+ worksheet functions plus LET, LAMBDA, MAP, REDUCE, SCAN, BYROW, BYCOL and MAKEARRAY,
   structured table references, Excel's full number-format language, sort and AutoFilter,
@@ -109,7 +109,7 @@ cargo run --release -p gridcraft -- --sample sales --control 7979   # + JSON con
 cargo xtask ci                                                 # fmt, clippy, tests, assets, layering, wasm
 ```
 
-Choose Español under View → Interface language for [Spanish formula names, decimal commas, and semicolon arguments](docs/formula-input.md).
+Choose Español under View → Interface language for [Spanish formula names, decimal commas, and semicolon arguments](https://github.com/storytold/gridcraft/blob/v0.8.0/docs/formula-input.md).
 Workbooks, clipboard exchange, and programmatic APIs retain canonical English syntax.
 
 ### Web
@@ -172,8 +172,8 @@ gridcraft-cli commands --search chart                          # every command a
 The MCP server offers tools such as `read_range`, `write_range`, `set_cell`, `evaluate_formula`,
 `format_range`, `insert_chart`, `create_table`, `sort_range`, `filter` and `execute_command`
 (which reaches every one of GridCraft's commands). The desktop app's control channel adds real
-pointer and keyboard input, dialogs and screenshots. See [`docs/mcp.md`](docs/mcp.md),
-[`docs/cli.md`](docs/cli.md) and [`docs/control-protocol.md`](docs/control-protocol.md).
+pointer and keyboard input, dialogs and screenshots. See [`docs/mcp.md`](https://github.com/storytold/gridcraft/blob/v0.8.0/docs/mcp.md),
+[`docs/cli.md`](https://github.com/storytold/gridcraft/blob/v0.8.0/docs/cli.md) and [`docs/control-protocol.md`](https://github.com/storytold/gridcraft/blob/v0.8.0/docs/control-protocol.md).
 
 ## Architecture
 
@@ -190,19 +190,19 @@ egui frontend is a separate crate, so the UI can be swapped without touching the
 | L6 | `ui-egui` (Excel-style UI, control channel) · `mcp` (MCP server) |
 | L7 | `apps/gridcraft`, `apps/gridcraft-cli`, `apps/gridcraft-web` |
 
-- **Contributor and agent rules** (clean-room, asset policy, never-crash, quality gates): [`AGENTS.md`](AGENTS.md)
-- **Bundled assets:** each one is listed with its licence in [`ATTRIBUTION.md`](ATTRIBUTION.md)
-- **Releases:** signed macOS, Windows, Linux, BSD and web builds; see [`docs/releasing.md`](docs/releasing.md)
+- **Contributor and agent rules** (clean-room, asset policy, never-crash, quality gates): [`AGENTS.md`](https://github.com/storytold/gridcraft/blob/v0.8.0/AGENTS.md)
+- **Bundled assets:** each one is listed with its licence in [`ATTRIBUTION.md`](https://github.com/storytold/gridcraft/blob/v0.8.0/ATTRIBUTION.md)
+- **Releases:** signed macOS, Windows, Linux, BSD and web builds; see [`docs/releasing.md`](https://github.com/storytold/gridcraft/blob/v0.8.0/docs/releasing.md)
 
 ## Roadmap
 
 GridCraft is in **alpha**: the core workflow works end to end, but depth, fidelity and file
 compatibility are still rough. It covers 89% of the Excel ribbon commands in our catalog
-([`docs/parity-checklist.md`](docs/parity-checklist.md)) and 513 of Excel's 523 worksheet functions
-([`docs/function-parity.md`](docs/function-parity.md)); weighted by what Excel users rely on, we
+([`docs/parity-checklist.md`](https://github.com/storytold/gridcraft/blob/v0.8.0/docs/parity-checklist.md)) and 513 of Excel's 523 worksheet functions
+([`docs/function-parity.md`](https://github.com/storytold/gridcraft/blob/v0.8.0/docs/function-parity.md)); weighted by what Excel users rely on, we
 estimate it is about 50% ready for real work. Next up: XLSX fidelity on real-world files, very large
 workbooks and multi-threaded recalc, chart depth, text in every script, and `.xls` import. Stage,
-numbers and estimates are in [ROADMAP.md](ROADMAP.md); the ranked work list is [`docs/gaps.md`](docs/gaps.md).
+numbers and estimates are in [ROADMAP.md](https://github.com/storytold/gridcraft/blob/v0.8.0/ROADMAP.md); the ranked work list is [`docs/gaps.md`](https://github.com/storytold/gridcraft/blob/v0.8.0/docs/gaps.md).
 
 ## Downloads
 
@@ -320,18 +320,18 @@ And [**ArtCraft**](https://getartcraft.com/) itself, our AI image and video stud
 ## License and credits
 
 GridCraft is dual-licensed under [MIT](LICENSE-MIT) or [Apache-2.0](LICENSE-APACHE), at your option.
-Copyright (c) 2026 ArtCraft Team and the GridCraft contributors. Required notices are in [NOTICE](NOTICE).
+Copyright (c) 2026 ArtCraft Team and the GridCraft contributors. Required notices are in [NOTICE](https://github.com/storytold/gridcraft/blob/v0.8.0/NOTICE).
 
 Bundled fonts, icons, images and other assets keep their own open licenses; each one is listed
-with its author, source and license in [ATTRIBUTION.md](ATTRIBUTION.md).
+with its author, source and license in [ATTRIBUTION.md](https://github.com/storytold/gridcraft/blob/v0.8.0/ATTRIBUTION.md).
 
 All UI icons are drawn in code and are original; the sample workbooks and every screenshot in
 this README were made with GridCraft itself. GridCraft bundles no fonts: it uses the fonts
 installed on your system.
 
-The ArtCraft name, wordmark and logos in [`docs/brand/`](docs/brand/) are trademarks of the
+The ArtCraft name, wordmark and logos in [`docs/brand/`](https://github.com/storytold/gridcraft/tree/v0.8.0/docs/brand) are trademarks of the
 ArtCraft Team and are not covered by this license. They may be used only unmodified, and only as
-part of this repository and GridCraft, under [`docs/brand/LICENSE-brand.txt`](docs/brand/LICENSE-brand.txt).
+part of this repository and GridCraft, under [`docs/brand/LICENSE-brand.txt`](https://github.com/storytold/gridcraft/blob/v0.8.0/docs/brand/LICENSE-brand.txt).
 Forks and modified versions must remove them.
 
 <sub>Microsoft, Excel and Microsoft 365 are trademarks or registered trademarks of Microsoft Corporation in the United States and/or other countries. GridCraft is an independent, open-source project and is not affiliated with, sponsored by or endorsed by Microsoft Corporation; these names are used only to describe the workflows it is compatible with.</sub>
@@ -339,6 +339,6 @@ Forks and modified versions must remove them.
 <br>
 
 <p align="center">
-  <a href="https://getartcraft.com/"><img alt="ArtCraft" src="docs/brand/artcraft-mark.svg" width="28"></a><br>
+  <a href="https://getartcraft.com/"><img alt="ArtCraft" src="https://raw.githubusercontent.com/storytold/gridcraft/v0.8.0/docs/brand/artcraft-mark.svg" width="28"></a><br>
   <sub>Made by the <a href="https://getartcraft.com/">ArtCraft</a> team and community.</sub>
 </p>

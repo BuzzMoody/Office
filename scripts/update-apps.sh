@@ -33,6 +33,8 @@ for slug in "${want[@]}"; do
   # Replace the directory contents wholesale so stale hashed files do not pile up.
   find "$dir" -mindepth 1 -delete
   cp -a "$tmp/$dir/x/$name-web-$ver/." "$dir/"
+  # The upstream README links are relative to the upstream repo; point them at it.
+  python3 -I scripts/fix-app-readme-links.py "$dir" "$repo" "$tag"
   printf 'repo=%s\ntag=%s\nasset=%s\nsha256=%s\n' "$repo" "$tag" "$zip" \
     "$(grep " $zip\$" "$tmp/$dir/SHA256SUMS.txt" | cut -d' ' -f1)" > "$dir/.upstream"
 done

@@ -2,7 +2,7 @@
   <a href="https://getartcraft.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/brand/artcraft-logo-white.svg">
-      <img alt="ArtCraft" src="docs/brand/artcraft-logo.svg" width="200">
+      <img alt="ArtCraft" src="https://raw.githubusercontent.com/storytold/wordcraft/v0.8.0/docs/brand/artcraft-logo.svg" width="200">
     </picture>
   </a>
 </p>
@@ -40,7 +40,7 @@
 <br>
 
 <p align="center">
-  <img src="docs/images/hero.png" alt="WordCraft with the Home tab of the ribbon open over a two-page document titled The Open Studio Handbook. The Navigation pane on the left lists the document's headings, the Styles gallery shows live previews of Normal, Heading 1, Title and Subtitle, and a word in the first paragraph is selected." width="100%">
+  <img src="https://raw.githubusercontent.com/storytold/wordcraft/v0.8.0/docs/images/hero.png" alt="WordCraft with the Home tab of the ribbon open over a two-page document titled The Open Studio Handbook. The Navigation pane on the left lists the document's headings, the Styles gallery shows live previews of Normal, Heading 1, Title and Subtitle, and a word in the first paragraph is selected." width="100%">
   <br><sub><b>The Open Studio Handbook</b>, WordCraft's built-in sample: the ribbon, live Styles gallery, rulers and the Navigation pane.</sub>
 </p>
 
@@ -69,18 +69,18 @@ Every screenshot below is WordCraft itself, rendered offscreen by its own UI tes
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="docs/images/review.png" alt="The Review tab with Track Changes on: the word forty is inserted in magenta and thirty struck through; three commented phrases are shaded and joined by dashed leader lines to comment balloons in a grey markup area to the right of the page" width="100%"><p align="center"><sub><b>Review.</b> Track changes, comment balloons in the margin, accept and reject, spelling and grammar as you type.</sub></p></td>
-<td width="50%" valign="top"><img src="docs/images/references.png" alt="The References tab with two pages side by side: a table of contents with dotted leaders and page numbers on page one, and a styled table, numbered list and hyperlink on page two" width="100%"><p align="center"><sub><b>References.</b> Tables of contents, footnotes, citations in APA, MLA, Chicago or IEEE, index and captions.</sub></p></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/storytold/wordcraft/v0.8.0/docs/images/review.png" alt="The Review tab with Track Changes on: the word forty is inserted in magenta and thirty struck through; three commented phrases are shaded and joined by dashed leader lines to comment balloons in a grey markup area to the right of the page" width="100%"><p align="center"><sub><b>Review.</b> Track changes, comment balloons in the margin, accept and reject, spelling and grammar as you type.</sub></p></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/storytold/wordcraft/v0.8.0/docs/images/references.png" alt="The References tab with two pages side by side: a table of contents with dotted leaders and page numbers on page one, and a styled table, numbered list and hyperlink on page two" width="100%"><p align="center"><sub><b>References.</b> Tables of contents, footnotes, citations in APA, MLA, Chicago or IEEE, index and captions.</sub></p></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="docs/images/design.png" alt="The Design tab showing style-set previews; the document is set in a serif theme with plum headings underlined by thin rules and a pale diagonal DRAFT watermark behind the text" width="100%"><p align="center"><sub><b>Design.</b> Themes, style sets, paragraph spacing, watermarks, page colour and borders.</sub></p></td>
-<td width="50%" valign="top"><img src="docs/images/dark.png" alt="WordCraft in dark mode with the Insert tab open and formatting marks shown: pilcrows at paragraph ends and dots for spaces" width="100%"><p align="center"><sub><b>Dark mode</b> with formatting marks, and the Insert tab: tables, pictures, shapes, links, headers, footers, fields and symbols.</sub></p></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/storytold/wordcraft/v0.8.0/docs/images/design.png" alt="The Design tab showing style-set previews; the document is set in a serif theme with plum headings underlined by thin rules and a pale diagonal DRAFT watermark behind the text" width="100%"><p align="center"><sub><b>Design.</b> Themes, style sets, paragraph spacing, watermarks, page colour and borders.</sub></p></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/storytold/wordcraft/v0.8.0/docs/images/dark.png" alt="WordCraft in dark mode with the Insert tab open and formatting marks shown: pilcrows at paragraph ends and dots for spaces" width="100%"><p align="center"><sub><b>Dark mode</b> with formatting marks, and the Insert tab: tables, pictures, shapes, links, headers, footers, fields and symbols.</sub></p></td>
 </tr>
 <tr>
-<td colspan="2"><img src="docs/images/layout.png" alt="The Layout tab at 80% zoom: the first paragraph opens with a three-line drop cap E, a dark blue circle sits beside the second section with its paragraph wrapping around it and hyphenating art-ist at the line end, every line is numbered in the left margin and a thin blue border surrounds the page" width="100%"><p align="center"><sub><b>Layout.</b> Drop caps, text wrapping around pictures and shapes, automatic hyphenation, line numbers and page borders.</sub></p></td>
+<td colspan="2"><img src="https://raw.githubusercontent.com/storytold/wordcraft/v0.8.0/docs/images/layout.png" alt="The Layout tab at 80% zoom: the first paragraph opens with a three-line drop cap E, a dark blue circle sits beside the second section with its paragraph wrapping around it and hyphenating art-ist at the line end, every line is numbered in the left margin and a thin blue border surrounds the page" width="100%"><p align="center"><sub><b>Layout.</b> Drop caps, text wrapping around pictures and shapes, automatic hyphenation, line numbers and page borders.</sub></p></td>
 </tr>
 <tr>
-<td colspan="2"><img src="docs/images/backstage.png" alt="The File tab start page with a Good morning greeting, thumbnails of the Blank document, Studio handbook, Letter, Résumé and Report templates, and a list of recent documents" width="100%"><p align="center"><sub><b>File.</b> Start from a template, open recent documents, edit properties, export to PDF and other formats.</sub></p></td>
+<td colspan="2"><img src="https://raw.githubusercontent.com/storytold/wordcraft/v0.8.0/docs/images/backstage.png" alt="The File tab start page with a Good morning greeting, thumbnails of the Blank document, Studio handbook, Letter, Résumé and Report templates, and a list of recent documents" width="100%"><p align="center"><sub><b>File.</b> Start from a template, open recent documents, edit properties, export to PDF and other formats.</sub></p></td>
 </tr>
 </table>
 
@@ -120,9 +120,9 @@ Every screenshot below is WordCraft itself, rendered offscreen by its own UI tes
 | **View** | Print layout, web layout, draft, read mode, focus, zoom, one/multiple pages, page width, Navigation pane, rulers, gridlines, dark mode; interface in English, 简体中文, 繁體中文, 日本語, Português (Brasil), Español, Українська, Српски / Srpski, Eesti, Türkçe, Русский, Italiano, Deutsch, Polski, Čeština, Magyar, Français, Български, Tiếng Việt, 한국어 or Svenska (follows the system language by default) |
 | **Files** | .docx read/write (opens in Word), Word 97-2003 .doc import, PDF export, .odt, .rtf, .html, .md, .tex, .txt import/export, page images |
 
-The honest picture, area by area, is in [ROADMAP.md](ROADMAP.md), the
-[parity assessment](docs/target-app-parity.md) and the generated
-[feature checklist](docs/parity-checklist.md).
+The honest picture, area by area, is in [ROADMAP.md](https://github.com/storytold/wordcraft/blob/v0.8.0/ROADMAP.md), the
+[parity assessment](https://github.com/storytold/wordcraft/blob/v0.8.0/docs/target-app-parity.md) and the generated
+[feature checklist](https://github.com/storytold/wordcraft/blob/v0.8.0/docs/parity-checklist.md).
 
 ## Quick start
 
@@ -158,8 +158,8 @@ claude mcp add wordcraft-app -- wordcraft-cli mcp --connect 127.0.0.1:7981
 
 Tools include `list_commands`, `execute`, `batch`, `type_text`, `select_text`, `inspect_document`,
 `render_page`, `save_document`, and, with a running app, `screenshot`, `click` and `key`. Agents
-can check their work through `inspect_document` without screenshots. See [docs/mcp.md](docs/mcp.md)
-and the [control protocol](docs/control-protocol.md). Macros record any sequence of commands and
+can check their work through `inspect_document` without screenshots. See [docs/mcp.md](https://github.com/storytold/wordcraft/blob/v0.8.0/docs/mcp.md)
+and the [control protocol](https://github.com/storytold/wordcraft/blob/v0.8.0/docs/control-protocol.md). Macros record any sequence of commands and
 play it back (`tools.recordMacro`, `tools.macros`).
 
 ## Logs
@@ -188,14 +188,14 @@ covers every target starting with it (`wordcraft*=debug`). The logger is
 | L0 | `wordcraft-geom` | units and measurements |
 | L1 | `wordcraft-doc`, `wordcraft-fonts`, `wordcraft-proof` | document model and editing; fonts and shaping; spelling, grammar, hyphenation |
 | L2 | `wordcraft-layout`, `wordcraft-docx`, `wordcraft-formats` | line breaking, pagination, tables, notes, hit testing; OOXML; ODT/RTF/HTML/Markdown/TXT |
-| L3 | `wordcraft-render`, `wordcraft-pdf` | rasteriser (vello_cpu); PDF ([craft-pdf](docs/shared-pdf.md), Krilla) |
+| L3 | `wordcraft-render`, `wordcraft-pdf` | rasteriser (vello_cpu); PDF ([craft-pdf](https://github.com/storytold/wordcraft/blob/v0.8.0/docs/shared-pdf.md), Krilla) |
 | L4 | `wordcraft-engine` | session, undo, 422 commands, Word feature catalog |
 | L5 | `wordcraft-mcp` | MCP server |
 | L6 | `wordcraft-ui-egui` | the Word-style front end (swappable) |
 | apps | `wordcraft`, `wordcraft-cli`, `wordcraft-web` | desktop, command line, browser |
 
 `cargo xtask ci` runs formatting, clippy, ~800 tests, the asset-attribution check, the layering
-check and the wasm build. Contributor and agent instructions: [AGENTS.md](AGENTS.md).
+check and the wasm build. Contributor and agent instructions: [AGENTS.md](https://github.com/storytold/wordcraft/blob/v0.8.0/AGENTS.md).
 
 ## Roadmap
 
@@ -204,7 +204,7 @@ depth, file fidelity, stability and the rest, we estimate it is about 60% of the
 all of Word for real work, about 55% for a typical professional's weekly work and about 63% for
 everyday essentials. Beta needs testing against real-world .docx files, keeping charts and SmartArt
 through a round trip, pagination closer to Word's, a stability sweep and native printing. Details
-and estimates: [ROADMAP.md](ROADMAP.md) and [where we fall short](docs/gaps.md).
+and estimates: [ROADMAP.md](https://github.com/storytold/wordcraft/blob/v0.8.0/ROADMAP.md) and [where we fall short](https://github.com/storytold/wordcraft/blob/v0.8.0/docs/gaps.md).
 
 ## Downloads
 
@@ -360,24 +360,24 @@ And [**ArtCraft**](https://getartcraft.com/) itself, our AI image and video stud
 ## License and credits
 
 WordCraft is dual-licensed under [MIT](LICENSE-MIT) or [Apache-2.0](LICENSE-APACHE), at your option.
-Copyright (c) 2026 ArtCraft Team and the WordCraft contributors. Required notices are in [NOTICE](NOTICE).
+Copyright (c) 2026 ArtCraft Team and the WordCraft contributors. Required notices are in [NOTICE](https://github.com/storytold/wordcraft/blob/v0.8.0/NOTICE).
 
 Bundled fonts, icons, images and other assets keep their own open licenses; each one is listed
-with its author, source and license in [ATTRIBUTION.md](ATTRIBUTION.md).
+with its author, source and license in [ATTRIBUTION.md](https://github.com/storytold/wordcraft/blob/v0.8.0/ATTRIBUTION.md).
 
 The English spelling dictionary and hyphenation come from Grady Ward's public-domain Moby
 Hyphenator II word list. Polish spelling reads the Hunspell `pl_PL` dictionary installed on the system (not bundled) and
 Polish hyphenation the TeX patterns by Hanna Kołodziejska, Bogusław Jackowski and Marek Ryćko (MIT
 option). The sample documents and templates are original text written for WordCraft.
 
-The ArtCraft name, wordmark and logos in [`docs/brand/`](docs/brand/) are trademarks of the
+The ArtCraft name, wordmark and logos in [`docs/brand/`](https://github.com/storytold/wordcraft/tree/v0.8.0/docs/brand) are trademarks of the
 ArtCraft Team and are not covered by this license. They may be used only unmodified, and only as
-part of this repository and WordCraft, under [`docs/brand/LICENSE-brand.txt`](docs/brand/LICENSE-brand.txt).
+part of this repository and WordCraft, under [`docs/brand/LICENSE-brand.txt`](https://github.com/storytold/wordcraft/blob/v0.8.0/docs/brand/LICENSE-brand.txt).
 Forks and modified versions must remove them.
 
 <sub>Microsoft and Microsoft Word are trademarks of the Microsoft group of companies. Adobe, Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat, After Effects and InDesign are trademarks or registered trademarks of Adobe Inc. in the United States and/or other countries. WordCraft is an independent, open-source project and is not affiliated with, sponsored by or endorsed by Microsoft Corporation or Adobe Inc.; these names are used only to describe the workflows it is compatible with.</sub>
 
 <p align="center">
-  <a href="https://getartcraft.com/"><img alt="ArtCraft" src="docs/brand/artcraft-mark.svg" width="28"></a><br>
+  <a href="https://getartcraft.com/"><img alt="ArtCraft" src="https://raw.githubusercontent.com/storytold/wordcraft/v0.8.0/docs/brand/artcraft-mark.svg" width="28"></a><br>
   <sub>Made by the <a href="https://getartcraft.com/">ArtCraft</a> team and community.</sub>
 </p>

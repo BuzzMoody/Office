@@ -12,12 +12,15 @@ It ships as a distroless Docker image (`gcr.io/distroless/static-debian13:nonroo
 apps.json            registry of apps (slug, dir, name, accent colour, file extensions)
 Docs/ Sheets/ Slides/ unmodified upstream web builds (see each dir's .upstream file)
 server/              Go server, embedded home page (web/home) and shim (web/assets/shim.js)
-scripts/             update-apps.sh, pins.conf, precompress.sh
+scripts/             update-apps.sh, pins.conf, precompress.sh, fix-app-readme-links.py
 ```
 
 **Never edit files inside `Docs/`, `Sheets/` or `Slides/`.** Their `index.html` pins the JS and WASM
 with SRI hashes and the files are replaced wholesale on every update. All Office behaviour lives in the
 server, which injects `shim.js` into each app's `index.html` in memory at startup.
+The one exception is each app's `README.md` (never served or shipped in the image): its relative links are
+rewritten to absolute links on the upstream repo, at the bundled release tag, by
+`scripts/fix-app-readme-links.py`, which `update-apps.sh` runs automatically. Do not edit those READMEs by hand.
 
 ## How saving and opening work (and why it is fragile)
 
@@ -42,7 +45,7 @@ The maintainer asked that the shim be reassessed after every upstream update so 
 working for future versions. Treat an app update as incomplete until all of the following pass.
 
 1. **Update**: `scripts/update-apps.sh [docs|sheets|slides]`. It verifies the release's `SHA256SUMS.txt`,
-   replaces the app directory and rewrites its `.upstream` file. Apps listed in `scripts/pins.conf`
+   replaces the app directory, rewrites its README links and rewrites its `.upstream` file. Apps listed in `scripts/pins.conf`
    stay on their pinned tag.
 2. **Reassess pins**: read `scripts/pins.conf`. For each pin, check whether its stated exit condition is
    met (for example: upstream issue fixed in a newer release). If so, remove the pin and update.

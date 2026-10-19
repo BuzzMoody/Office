@@ -2,7 +2,7 @@
   <a href="https://getartcraft.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/brand/artcraft-logo-white.svg">
-      <img alt="ArtCraft" src="docs/brand/artcraft-logo.svg" width="200">
+      <img alt="ArtCraft" src="https://raw.githubusercontent.com/storytold/deckcraft/v0.7.0/docs/brand/artcraft-logo.svg" width="200">
     </picture>
   </a>
 </p>
@@ -43,7 +43,7 @@
 > last week. If you make things, you're one of us. **[Come say hi on Discord](https://discord.gg/artcraft).**
 
 <p align="center">
-  <img alt="DeckCraft editing a slide: ribbon, slide thumbnails with sections, a process diagram on the canvas, notes and status bar" src="docs/images/editor.png" width="900">
+  <img alt="DeckCraft editing a slide: ribbon, slide thumbnails with sections, a process diagram on the canvas, notes and status bar" src="https://raw.githubusercontent.com/storytold/deckcraft/v0.7.0/docs/images/editor.png" width="900">
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@
 
 ## What works today
 
-DeckCraft is in alpha, heading for beta (see the [roadmap](ROADMAP.md)).
+DeckCraft is in alpha, heading for beta (see the [roadmap](https://github.com/storytold/deckcraft/blob/v0.7.0/ROADMAP.md)).
 Today it can:
 
 - **Make decks**: slide masters and eleven layouts with placeholders that inherit position and
@@ -81,17 +81,17 @@ Today it can:
 
 <table>
   <tr>
-    <td width="50%"><img alt="A selected shape with the Shape Format tab" src="docs/images/shape-format.png"><br><sub>Shape Format contextual tab and selection handles</sub></td>
-    <td width="50%"><img alt="The Format Shape pane editing a gradient fill" src="docs/images/format-pane.png"><br><sub>Format Shape pane: gradient type, direction and stops</sub></td>
+    <td width="50%"><img alt="A selected shape with the Shape Format tab" src="https://raw.githubusercontent.com/storytold/deckcraft/v0.7.0/docs/images/shape-format.png"><br><sub>Shape Format contextual tab and selection handles</sub></td>
+    <td width="50%"><img alt="The Format Shape pane editing a gradient fill" src="https://raw.githubusercontent.com/storytold/deckcraft/v0.7.0/docs/images/format-pane.png"><br><sub>Format Shape pane: gradient type, direction and stops</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img alt="Slide Sorter view with transitions under each slide" src="docs/images/slide-sorter.png"><br><sub>Slide Sorter with each slide's transition</sub></td>
-    <td width="50%"><img alt="DeckCraft in dark mode showing a chart slide" src="docs/images/dark-mode.png"><br><sub>Dark mode, with a native chart</sub></td>
+    <td width="50%"><img alt="Slide Sorter view with transitions under each slide" src="https://raw.githubusercontent.com/storytold/deckcraft/v0.7.0/docs/images/slide-sorter.png"><br><sub>Slide Sorter with each slide's transition</sub></td>
+    <td width="50%"><img alt="DeckCraft in dark mode showing a chart slide" src="https://raw.githubusercontent.com/storytold/deckcraft/v0.7.0/docs/images/dark-mode.png"><br><sub>Dark mode, with a native chart</sub></td>
   </tr>
 </table>
 
 <p align="center">
-  <img alt="All eight slides of the Northern Lights sample deck" src="docs/images/sample-deck.png" width="900"><br>
+  <img alt="All eight slides of the Northern Lights sample deck" src="https://raw.githubusercontent.com/storytold/deckcraft/v0.7.0/docs/images/sample-deck.png" width="900"><br>
   <sub>The built-in sample deck, rendered by <code>deckcraft-cli render --sample --all</code></sub>
 </p>
 
@@ -156,10 +156,10 @@ deckcraft-cli mcp --connect 7990        # drive the running app (deckcraft --con
 
 DeckCraft is in **alpha**. It covers **79% of PowerPoint's features by breadth** (92% of the core
 ones, measured) and is about **55% of the way to replacing PowerPoint for real work** (estimated).
-See [ROADMAP.md](ROADMAP.md) for the stage, numbers by dimension and what's next,
-[docs/target-app-parity.md](docs/target-app-parity.md) for the full assessment,
-[docs/gaps.md](docs/gaps.md) for every known shortfall and
-[docs/parity-checklist.md](docs/parity-checklist.md) for the feature-by-feature checklist.
+See [ROADMAP.md](https://github.com/storytold/deckcraft/blob/v0.7.0/ROADMAP.md) for the stage, numbers by dimension and what's next,
+[docs/target-app-parity.md](https://github.com/storytold/deckcraft/blob/v0.7.0/docs/target-app-parity.md) for the full assessment,
+[docs/gaps.md](https://github.com/storytold/deckcraft/blob/v0.7.0/docs/gaps.md) for every known shortfall and
+[docs/parity-checklist.md](https://github.com/storytold/deckcraft/blob/v0.7.0/docs/parity-checklist.md) for the feature-by-feature checklist.
 
 ## Downloads
 
@@ -265,22 +265,22 @@ And [**ArtCraft**](https://getartcraft.com/) itself, our AI image and video stud
 ## License and credits
 
 DeckCraft is dual-licensed under [MIT](LICENSE-MIT) or [Apache-2.0](LICENSE-APACHE), at your option.
-Copyright (c) 2026 ArtCraft Team and the DeckCraft contributors. Required notices are in [NOTICE](NOTICE).
+Copyright (c) 2026 ArtCraft Team and the DeckCraft contributors. Required notices are in [NOTICE](https://github.com/storytold/deckcraft/blob/v0.7.0/NOTICE).
 
 Bundled fonts, icons, images and other assets keep their own open licenses; each one is listed
-with its author, source and license in [ATTRIBUTION.md](ATTRIBUTION.md).
+with its author, source and license in [ATTRIBUTION.md](https://github.com/storytold/deckcraft/blob/v0.7.0/ATTRIBUTION.md).
 
 DeckCraft's themes, layouts, shape geometry, icons and sample decks are original work, drawn or
 generated in code; no Microsoft artwork, fonts, themes or templates are used.
 
-The ArtCraft name, wordmark and logos in [`docs/brand/`](docs/brand/) are trademarks of the
+The ArtCraft name, wordmark and logos in [`docs/brand/`](https://github.com/storytold/deckcraft/tree/v0.7.0/docs/brand) are trademarks of the
 ArtCraft Team and are not covered by this license. They may be used only unmodified, and only as
-part of this repository and DeckCraft, under [`docs/brand/LICENSE-brand.txt`](docs/brand/LICENSE-brand.txt).
+part of this repository and DeckCraft, under [`docs/brand/LICENSE-brand.txt`](https://github.com/storytold/deckcraft/blob/v0.7.0/docs/brand/LICENSE-brand.txt).
 Forks and modified versions must remove them.
 
 <sub>Microsoft and PowerPoint are trademarks of the Microsoft group of companies. Adobe, Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat, After Effects and InDesign are trademarks or registered trademarks of Adobe Inc. in the United States and/or other countries. DeckCraft is an independent, open-source project and is not affiliated with, sponsored by or endorsed by Microsoft Corporation or Adobe Inc.; these names are used only to describe the workflows it is compatible with.</sub>
 
 <p align="center">
-  <a href="https://getartcraft.com/"><img alt="ArtCraft" src="docs/brand/artcraft-mark.svg" width="28"></a><br>
+  <a href="https://getartcraft.com/"><img alt="ArtCraft" src="https://raw.githubusercontent.com/storytold/deckcraft/v0.7.0/docs/brand/artcraft-mark.svg" width="28"></a><br>
   <sub>Made by the <a href="https://getartcraft.com/">ArtCraft</a> team and community.</sub>
 </p>
